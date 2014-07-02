@@ -1,0 +1,24 @@
+*.gem
+tmp/*
+
+.vagrant
+.idea
+
+# bundler
+.bundle
+Gemfile.lock
+
+# jeweler generated
+pkg
+
+# For MacOS:
+.DS_Store
+.picasa.ini
+
+# For emacs:
+*~
+\#*
+.\#*
+
+# For vim:
+*.swp
